@@ -21,7 +21,7 @@ public class ClienteResource {
 	/**
 	 * Método responsável por fazer chamada ao Controller
 	 * @author Brauner
-	 * @return ArrayList<Cliente>
+	 * @return ClienteController().listarTodos()
 	 */
 	@GET
 	@Path("/listartodos")

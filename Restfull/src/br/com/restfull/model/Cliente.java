@@ -3,7 +3,7 @@ package br.com.restfull.model;
 import javax.xml.bind.annotation.XmlRootElement;
 
 /**
- * Classe responsável por conter os atributos do objeto cliente
+ * Classe responsável por conter os atributos do objeto cliente.
  * 
  * @author Brauner
  *
